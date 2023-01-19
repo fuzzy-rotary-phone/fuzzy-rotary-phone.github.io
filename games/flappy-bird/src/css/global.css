@@ -1,0 +1,336 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+
+  background: #fafafa;
+  font: 700 1.5rem VT323, sans-serif;
+}
+
+.loader {
+    position : fixed;
+    z-index: 9999;
+    background : url('../../../../assets/sleep.gif') 50% 50% no-repeat;
+    top : 0px;
+    left : 0px;
+    height : 100%;
+    width : 100%;
+    cursor : wait;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  margin-bottom: 20px;
+}
+
+p {
+  user-select: none;
+}
+
+canvas {
+  border: 1px solid black;
+  cursor: pointer;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  -webkit-box-shadow: 0px 4px 17px 0px rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 0px 4px 17px 0px rgba(0, 0, 0, 0.19);
+  box-shadow: 0px 4px 17px 0px rgba(0, 0, 0, 0.19);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.swal-alert {
+  font-family: "Comic Sans MS";
+}
+
+#trigger-div {
+  margin-top: 2vh;
+}
+
+#trigger-text {
+  padding: 2vh;
+  border-color: black;
+  border-style: solid;
+  border-radius: 2vh;
+  font-size: 3.5vh;
+  font-weight: bold;
+  color: indigo;
+  border-width: 0.5vh;
+}
+
+#instructions {
+  margin-top: -2em;
+  padding: 0.5em;
+  max-width: 20em;
+  text-align: center;
+}
+
+.close-div {
+  display: flex;
+  width: 2em;
+  height: 2em;
+  object-fit: contain;
+  margin: auto;
+  /* border-width: 0.3em;
+  border-color: black;
+  border-radius: 2em;
+  border-style: solid; */
+  position: absolute;
+  top: 90%;
+  left: 45%;
+  text-align: center;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 12px black;
+  transform: translateY(200%);
+  transition-timing-function: ease-in;
+  transition: 0.2s;
+  cursor: pointer;
+  /* background-color: #D00000; */
+}
+
+.close-div img {
+	width: 2.5em;
+	height: 2.5em;
+}
+
+.close-div.is-shown {
+  transition: 0.25s;
+  transition-timing-function: ease-out;
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.close-div i {
+  margin-top: -0.2em;
+  font-size: 1.5em;
+}
+
+.ad-img {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.swal2-container {
+  overflow-y: hidden;
+}
+
+.swal2-icon {
+  margin-top: 2em !important;
+  /*transform: scale(0.8) !important;*/
+}
+
+.swal2-popup {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  overflow: hidden;
+  padding: 0 !important;
+  height: 100% !important;
+  grid-row: 2 !important;
+}
+
+.swal2-html-container div {
+  font-size: calc(1em + 1vh);
+  border-color: black;
+  border-style: solid;
+  padding: 2vh;
+  border-radius: 2vh;
+  font-weight: bold;
+  color: indigo;
+  margin-top: 3vh;
+}
+
+.swal2-html-container {
+  padding: 0 !important;
+}
+
+.swal2-html-container span {
+  font-size: 0.8em;
+}
+
+.swal2-html-container strong {
+  font-size: 1.2em;
+}
+
+.swal2-overlay {
+  background-color: white !important;
+}
+
+.swal2-actions {
+  display: grid;
+  flex-direction: row;
+  position: relative;
+  margin: 0;
+  height: 10em;
+}
+
+.swal2-actions button {
+  width: 11em;
+  height: 4em;
+  border-radius: 2em !important;
+  box-shadow: 8px 5px 20px -8px #263238;
+}
+
+.swal2-actions button i {
+  /*font-size: 1.5rem;*/
+}
+
+.swal2-confirm {
+  background-color: #0096c7 !important;
+  position: absolute;
+  top: 0;
+  width: 15em !important;
+}
+
+.swal2-deny {
+  background-color: #eef4ed !important;
+  color: black !important;
+  position: absolute;
+  left: 0;
+  top: 50%;
+}
+
+.swal2-cancel {
+  background-color: #eef4ed !important;
+  color: black !important;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+
+.swal2-title {
+  font-family: Lucida Grande !important;
+  font-size: 2em !important;
+  padding-top: 0.1em !important;
+}
+
+.gif-div {
+  display: grid;
+  grid-column: 2;
+  grid-row: 3;
+  align-self: flex-end;
+  justify-self: safe center;
+  margin: auto;
+  margin-right: 0.3em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  font-size: 1.2em;
+  position: absolute;
+  right: 0;
+ }
+
+ .gif-div img {
+  height: 10vh;
+ }
+
+.logo-div {
+  display: grid;
+  grid-column: 2;
+  grid-row: 1;
+  align-self: center;
+  justify-self: safe center;
+  margin-top: 1em;
+}
+
+.logo-div img {
+  height: 30vh;
+}
+
+.trigger-div {
+  margin-top: -2em;
+  font-size: 0.8em;
+  border-color: black;
+  border-style: solid;
+  padding: 0.5em;
+  border-radius: 1em;
+  border-width: 0.15em;
+  font-weight: bold;
+  color: #003049;
+  display: grid;
+  grid-column: 2;
+  grid-row: 1;
+  align-self: end;
+  justify-self: center;
+  width: 15em;
+  max-width: 65%;
+  text-align: center;
+  box-shadow: 3px 3px 18px -8px #263238;
+  overflow: hidden;
+  opacity: 0.9;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.share-div {
+  display: grid;
+  grid-column: 2;
+  grid-row: 1;
+  text-align: center;
+  align-self: start;
+  justify-self: safe end;
+  margin: auto;
+  margin-right: 0.3em;
+  font-size: 0.8em;
+  margin-top: 0.3em;
+	font-weight: 500;
+	color: black;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.share-div:hover {
+	cursor: pointer;
+}
+
+.button-div {
+  grid-column: 2;
+  grid-row: 3;
+  align-self: start;
+  justify-self: safe end;
+  margin: auto;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 0em;
+}
+
+.button-div span {
+  display: inline-block;
+  width: 5em;
+  font-size: 0.8em;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  color: black;
+  opacity: 0.7;
+}
+
+.share-div i {
+  font-size: 2em;
+  color: #003049;
+}
+
+.share-div i:hover {
+  cursor: pointer;
+}
+
+*::-moz-selection {
+  background: transparent;
+}
+
+*::selection {
+  background: transparent;
+}
+
+.d-none {
+  display: none;
+}
