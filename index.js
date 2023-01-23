@@ -322,6 +322,10 @@ function isLocationToniGuy() {
 	return localStorage.getItem(LOCAL_STORAGE_KEY_FOR_RETAIL_LOCATION) == TAG_FOR_TONI_AND_GUY
 }
 
+function isLocationModulusHyd() {
+	return localStorage.getItem(LOCAL_STORAGE_KEY_FOR_RETAIL_LOCATION) == TAG_FOR_MODULUS
+}
+
 function isLocationCafe() {
 	return JSON_VALUE_FOR_INDUSTRY_CAFE == INSTANCE_JSON[JSON_KEY_FOR_INDUSTRY]
 }
@@ -358,7 +362,7 @@ function customizeBasedOnIndustry() {
 }
 
 function customizeBasedOnRetailLocation() {
-	if(isLocationNostroCafe() || isLocationToniGuy()) {
+	if(HOME_PAGE_PATH) {
 		document.getElementById('retailname').innerText = ''
 	}
 }

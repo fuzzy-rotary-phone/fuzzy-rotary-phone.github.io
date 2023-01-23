@@ -1,3 +1,7 @@
+body {
+    background-size: contain;
+}
+
 h1 {
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
   }
@@ -8,4 +12,8 @@ h1 {
 
 #button2 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+#greeting {
+    font-size: 3em;
 }

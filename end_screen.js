@@ -112,6 +112,17 @@ function removeAd() {
   $('.main').removeClass('d-none');
 }
 
+function customizeEndScreenBasedOnRetailLocation() {
+    if(isLocationToniGuy()) {
+        $('.logo-div img')[0].style.height = '10vh'
+        $('.logo-div')[0].style.marginTop = '7em'
+    }
+    if(isLocationModulusHyd()) {
+        $('.logo-div img')[0].style.height = '13vh'
+        $('.logo-div')[0].style.marginTop = '7em'
+    }
+}
+
 // function showEndScreen(allcontent, config) {
 function showEndScreen() {
     removeAd();
@@ -166,6 +177,7 @@ function showEndScreen() {
     gifDiv.innerHTML = '<a href='+ WEBSITE_LINK +' target="_blank">'
     + '<img src=' + GIF_PATH + '>' + '</a>';
     $('.swal2-container').append(gifDiv);
+    customizeEndScreenBasedOnRetailLocation()
 }
 
 function loadSameGame() {

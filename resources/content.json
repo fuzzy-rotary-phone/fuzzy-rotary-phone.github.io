@@ -144,6 +144,7 @@
 			9,
 			10
 		],
+		"homePage": "assets/retailers/Modulus/home.png",
 		"menuPath": "assets/retailers/Modulus/menu.csv",
 		"cssPath": "../../assets/retailers/Modulus/style.css"
 	},
