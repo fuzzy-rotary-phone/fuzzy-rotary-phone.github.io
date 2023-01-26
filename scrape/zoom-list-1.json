@@ -1,0 +1,4784 @@
+{
+    "totalResults": 178,
+    "maxResults": 0,
+    "data": [
+        {
+            "oppAlertId": "tz8ycs1rj1yx#11849450#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 11849450,
+            "companyName": "Providence Health & Services",
+            "domain": "www.providence.org",
+            "employeeCount": 120000,
+            "revenue": "$17.6 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 100,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#11849450",
+                "signalSources": [
+                    {
+                        "metro": "Los Angeles",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1801 Lind Ave SW",
+                "city": "Renton",
+                "state": "Washington",
+                "Zip": "98057",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#68274109#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 68274109,
+            "companyName": "Hospice of Washington County",
+            "domain": "www.hospiceofwc.org",
+            "employeeCount": 92,
+            "revenue": "$14 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 88,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#68274109",
+                "signalSources": [
+                    {
+                        "metro": "Washington",
+                        "state": "Maryland",
+                        "stateCode": "MD",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Elderly Care Services"
+                },
+                {
+                    "displayName": "Healthcare Services"
+                }
+            ],
+            "companyAddress": {
+                "street": "747 Northern Ave",
+                "city": "Hagerstown",
+                "state": "Maryland",
+                "Zip": "21742",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#17941233#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 17941233,
+            "companyName": "Steward Health Care",
+            "domain": "www.steward.org",
+            "employeeCount": 43000,
+            "revenue": "$6.3 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 76,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "F",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#17941233",
+                "signalSources": [
+                    {
+                        "metro": "Miami",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1900 N Pearl St Ste 2400",
+                "city": "Dallas",
+                "state": "Texas",
+                "Zip": "75201",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#384550820#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 384550820,
+            "companyName": "Johnson Curran Optometry Centers",
+            "domain": "www.johnsoncurran.com",
+            "employeeCount": 62,
+            "revenue": "$14.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 74,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#384550820",
+                "signalSources": [
+                    {
+                        "metro": "Roanoke",
+                        "state": "Virginia",
+                        "stateCode": "VA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "3763 Franklin Rd SW",
+                "city": "Roanoke",
+                "state": "Virginia",
+                "Zip": "24014",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#29709233#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 29709233,
+            "companyName": "Downtown Athletic Store",
+            "domain": "www.downtownathletic.com",
+            "employeeCount": 61,
+            "revenue": "$16.6 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 73,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#29709233",
+                "signalSources": [
+                    {
+                        "metro": "Augusta",
+                        "state": "South Carolina",
+                        "stateCode": "SC",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "1180 Seminole Trl 215",
+                "city": "Charlottesville",
+                "state": "Virginia",
+                "Zip": "22901",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#353947343#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 353947343,
+            "companyName": "Bethesda Lutheran Services",
+            "domain": "www.bethesda1919.org",
+            "employeeCount": 172,
+            "revenue": "$15.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 67,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#353947343",
+                "signalSources": [
+                    {
+                        "metro": "Erie",
+                        "state": "Pennsylvania",
+                        "stateCode": "PA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "15487 State Hwy 86",
+                "city": "Meadville",
+                "state": "Pennsylvania",
+                "Zip": "16335",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#355536619#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 355536619,
+            "companyName": "Dependable Home Health Care",
+            "domain": "www.dependable-care.com",
+            "employeeCount": 236,
+            "revenue": "$15.9 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 66,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#355536619",
+                "signalSources": [
+                    {
+                        "metro": "Chicago",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "23 Empire Dr Ste 100",
+                "city": "Saint Paul",
+                "state": "Minnesota",
+                "Zip": "55103",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#17321460#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 17321460,
+            "companyName": "Central Wyoming Counseling Center",
+            "domain": "www.cwcc.us",
+            "employeeCount": 127,
+            "revenue": "$12.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 64,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#17321460",
+                "signalSources": [
+                    {
+                        "metro": "Cleveland",
+                        "state": "Ohio",
+                        "stateCode": "OH",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1430 Wilkins Cir Ste 154",
+                "city": "Casper",
+                "state": "Wyoming",
+                "Zip": "82601",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#96011710#20230121",
+            "issueDate": "1/21/2023 12:00 AM",
+            "companyId": 96011710,
+            "companyName": "MD Now Urgent Care",
+            "domain": "www.mymdnow.com",
+            "employeeCount": 746,
+            "revenue": "$35.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 62,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#96011710",
+                "signalSources": [
+                    {
+                        "metro": "Miami",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2007 Palm Beach Lakes Blvd",
+                "city": "West Palm Beach",
+                "state": "Florida",
+                "Zip": "33409",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#29688592#20230114",
+            "issueDate": "1/14/2023 12:00 AM",
+            "companyId": 29688592,
+            "companyName": "Parkview Hospital",
+            "domain": "www.parkview.com",
+            "employeeCount": 13000,
+            "revenue": "$1.9 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 74,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#29688592",
+                "signalSources": [
+                    {
+                        "metro": "Sacramento",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "10501 Corporate Dr",
+                "city": "Fort Wayne",
+                "state": "Indiana",
+                "Zip": "46845",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#37457753#20230114",
+            "issueDate": "1/14/2023 12:00 AM",
+            "companyId": 37457753,
+            "companyName": "National Institute on Drug Abuse",
+            "domain": "www.drugabuse.gov",
+            "employeeCount": 91,
+            "revenue": "$14.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 66,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#37457753",
+                "signalSources": [
+                    {
+                        "metro": "null",
+                        "state": "null",
+                        "stateCode": "NULL",
+                        "country": "null",
+                        "countryCode": "NULL",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2403 Professional Dr Ste 103",
+                "city": "Santa Rosa",
+                "state": "California",
+                "Zip": "95403",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#9110454#20230114",
+            "issueDate": "1/14/2023 12:00 AM",
+            "companyId": 9110454,
+            "companyName": "The CardioVascular Group",
+            "domain": "www.cvgcares.com",
+            "employeeCount": 58,
+            "revenue": "$11.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 65,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#9110454",
+                "signalSources": [
+                    {
+                        "metro": "Macon",
+                        "state": "Georgia",
+                        "stateCode": "GA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "755 Walther Rd NW",
+                "city": "Lawrenceville",
+                "state": "Georgia",
+                "Zip": "30045",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#412310268#20230114",
+            "issueDate": "1/14/2023 12:00 AM",
+            "companyId": 412310268,
+            "companyName": "Capstone Restaurant Group",
+            "domain": "www.capstonerestaurants.com",
+            "employeeCount": 76,
+            "revenue": "$13.5 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 64,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#412310268",
+                "signalSources": [
+                    {
+                        "metro": "Augusta",
+                        "state": "Georgia",
+                        "stateCode": "GA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Holding Companies & Conglomerates"
+                }
+            ],
+            "companyAddress": {
+                "street": "7490 Clubhouse Rd Fl 2",
+                "city": "Boulder",
+                "state": "Colorado",
+                "Zip": "80301",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#117785166#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 117785166,
+            "companyName": "WVU Medicine",
+            "domain": "www.wvumedicine.org",
+            "employeeCount": 25880,
+            "revenue": "$4 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 76,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#117785166",
+                "signalSources": [
+                    {
+                        "metro": "Roanoke",
+                        "state": "Virginia",
+                        "stateCode": "VA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1 Medical Center Dr",
+                "city": "Morgantown",
+                "state": "West Virginia",
+                "Zip": "26506",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#61555779#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 61555779,
+            "companyName": "Memorial Sloan Kettering Cancer Center",
+            "domain": "www.mskcc.org",
+            "employeeCount": 20500,
+            "revenue": "$5.4 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 73,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#61555779",
+                "signalSources": [
+                    {
+                        "metro": "Boston",
+                        "state": "New Hampshire",
+                        "stateCode": "NH",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1275 York Ave",
+                "city": "New York",
+                "state": "New York",
+                "Zip": "10065",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#3834943#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 3834943,
+            "companyName": "Ascension",
+            "domain": "healthcare.ascension.org",
+            "employeeCount": 139000,
+            "revenue": "$28 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 70,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "D",
+                "departmentId": 0,
+                "signalCount": 4,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#3834943",
+                "signalSources": [
+                    {
+                        "metro": "Nashville",
+                        "state": "Tennessee",
+                        "stateCode": "TN",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "4600 Edmundson Rd",
+                "city": "St. Louis",
+                "state": "Missouri",
+                "Zip": "63134",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#12259557#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 12259557,
+            "companyName": "Banner Health",
+            "domain": "www.bannerhealth.com",
+            "employeeCount": 52000,
+            "revenue": "$7.9 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 70,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 3,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#12259557",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New Jersey",
+                        "stateCode": "NJ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    },
+                    {
+                        "metro": "Phoenix",
+                        "state": "Arizona",
+                        "stateCode": "AZ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2901 N Central Ave Ste 160",
+                "city": "Phoenix",
+                "state": "Arizona",
+                "Zip": "85012",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#96421420#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 96421420,
+            "companyName": "PRAB",
+            "domain": "www.prab.org",
+            "employeeCount": 202,
+            "revenue": "$12 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 69,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#96421420",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New Jersey",
+                        "stateCode": "NJ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Non-Profit & Charitable Organizations"
+                },
+                {
+                    "displayName": "Organizations"
+                }
+            ],
+            "companyAddress": {
+                "street": "90 Jersey Ave",
+                "city": "New Brunswick",
+                "state": "New Jersey",
+                "Zip": "08901",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#30147212#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 30147212,
+            "companyName": "Kaiser Permanente",
+            "domain": "www.kaiserpermanente.org",
+            "employeeCount": 122912,
+            "revenue": "$74.4 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 65,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#30147212",
+                "signalSources": [
+                    {
+                        "metro": "Portland",
+                        "state": "Oregon",
+                        "stateCode": "OR",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1 Kaiser Plaza 22nd Floor",
+                "city": "Oakland",
+                "state": "California",
+                "Zip": "94612",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#346253919#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 346253919,
+            "companyName": "Emergence Health",
+            "domain": "www.emergencehealthnetwork.org",
+            "employeeCount": 326,
+            "revenue": "$52.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 63,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#346253919",
+                "signalSources": [
+                    {
+                        "metro": "El Paso",
+                        "state": "Texas",
+                        "stateCode": "TX",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1600 Montana Ave",
+                "city": "El Paso",
+                "state": "Texas",
+                "Zip": "79902",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#23970442#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 23970442,
+            "companyName": "Massac Memorial Hospital",
+            "domain": "www.massachealth.org",
+            "employeeCount": 199,
+            "revenue": "$18.5 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 62,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#23970442",
+                "signalSources": [
+                    {
+                        "metro": "El Paso",
+                        "state": "Texas",
+                        "stateCode": "TX",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "28 Chick St Ste 100",
+                "city": "Metropolis",
+                "state": "Illinois",
+                "Zip": "62960",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#82870539#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 82870539,
+            "companyName": "South Central Regional Medical Center",
+            "domain": "www.scrmc.com",
+            "employeeCount": 2100,
+            "revenue": "$329.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#82870539",
+                "signalSources": [
+                    {
+                        "metro": "Jackson",
+                        "state": "Mississippi",
+                        "stateCode": "MS",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1220 Jefferson St",
+                "city": "Laurel",
+                "state": "Mississippi",
+                "Zip": "39441",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#357675958#20230107",
+            "issueDate": "1/7/2023 12:00 AM",
+            "companyId": 357675958,
+            "companyName": "Company Nurse",
+            "domain": "www.companynurse.com",
+            "employeeCount": 91,
+            "revenue": "$15.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#357675958",
+                "signalSources": [
+                    {
+                        "metro": "Phoenix",
+                        "state": "Arizona",
+                        "stateCode": "AZ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "8360 E Via De Ventura Blvd Ste L200",
+                "city": "Scottsdale",
+                "state": "Arizona",
+                "Zip": "85258",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#345320670#20221231",
+            "issueDate": "12/31/2022 12:00 AM",
+            "companyId": 345320670,
+            "companyName": "Covington County Hospital",
+            "domain": "www.covingtoncountyhospital.com",
+            "employeeCount": 241,
+            "revenue": "$24.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 98,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#345320670",
+                "signalSources": [
+                    {
+                        "metro": "Hattiesburg",
+                        "state": "Mississippi",
+                        "stateCode": "MS",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "701 S Holly Ave",
+                "city": "Collins",
+                "state": "Mississippi",
+                "Zip": "39428",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#16188738#20221231",
+            "issueDate": "12/31/2022 12:00 AM",
+            "companyId": 16188738,
+            "companyName": "Deaconess Health System",
+            "domain": "www.deaconess.com",
+            "employeeCount": 4000,
+            "revenue": "$589.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 95,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#16188738",
+                "signalSources": [
+                    {
+                        "metro": "Savannah",
+                        "state": "Georgia",
+                        "stateCode": "GA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "600 Mary St",
+                "city": "Evansville",
+                "state": "Indiana",
+                "Zip": "47747",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        }
+    ]
+}
+,{
+    "totalResults": 178,
+    "maxResults": 0,
+    "data": [
+        {
+            "oppAlertId": "tz8ycs1rj1yx#85084228#20221231",
+            "issueDate": "12/31/2022 12:00 AM",
+            "companyId": 85084228,
+            "companyName": "Nevada Donor Network",
+            "domain": "www.nvdonor.org",
+            "employeeCount": 136,
+            "revenue": "$24.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 91,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#85084228",
+                "signalSources": [
+                    {
+                        "metro": "Reno",
+                        "state": "Nevada",
+                        "stateCode": "NV",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2055 E Sahara Ave",
+                "city": "Las Vegas",
+                "state": "Nevada",
+                "Zip": "89104",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#458242683#20221231",
+            "issueDate": "12/31/2022 12:00 AM",
+            "companyId": 458242683,
+            "companyName": "Monty's Sunset",
+            "domain": "www.montyssobe.com",
+            "employeeCount": 117,
+            "revenue": "$22.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 78,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#458242683",
+                "signalSources": [
+                    {
+                        "metro": "Port Saint Lucie",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "300 Alton Rd Ste 102",
+                "city": "Miami Beach",
+                "state": "Florida",
+                "Zip": "33139",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#415584899#20221231",
+            "issueDate": "12/31/2022 12:00 AM",
+            "companyId": 415584899,
+            "companyName": "MatchNursingHomes.org",
+            "domain": "www.matchnursinghomes.org",
+            "employeeCount": 804,
+            "revenue": "$35.5 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 72,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#415584899",
+                "signalSources": [
+                    {
+                        "metro": "Detroit",
+                        "state": "Michigan",
+                        "stateCode": "MI",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "PO Box 816",
+                "city": "Lewiston",
+                "state": "Idaho",
+                "Zip": "83501",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#971084#20221231",
+            "issueDate": "12/31/2022 12:00 AM",
+            "companyId": 971084,
+            "companyName": "Acme Oyster House",
+            "domain": "www.acmeoyster.com",
+            "employeeCount": 74,
+            "revenue": "$18 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#971084",
+                "signalSources": [
+                    {
+                        "metro": "New Orleans",
+                        "state": "Louisiana",
+                        "stateCode": "LA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "724 Iberville St",
+                "city": "New Orleans",
+                "state": "Louisiana",
+                "Zip": "70130",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#82102683#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 82102683,
+            "companyName": "El Rio Health",
+            "domain": "www.elrio.org",
+            "employeeCount": 1325,
+            "revenue": "$171.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 82,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#82102683",
+                "signalSources": [
+                    {
+                        "metro": "Tucson",
+                        "state": "Arizona",
+                        "stateCode": "AZ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1230 S Cherrybell Stra",
+                "city": "Tucson",
+                "state": "Arizona",
+                "Zip": "85713",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#385878321#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 385878321,
+            "companyName": "Cypress Creek ER",
+            "domain": "www.cypresscreeker.com",
+            "employeeCount": 119,
+            "revenue": "$23.8 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 78,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#385878321",
+                "signalSources": [
+                    {
+                        "metro": "Houston",
+                        "state": "Texas",
+                        "stateCode": "TX",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "837 Fm 1960 W Ste 111",
+                "city": "Houston",
+                "state": "Texas",
+                "Zip": "77090",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#1102015862#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 1102015862,
+            "companyName": "Maine Medical Center",
+            "domain": "www.mmc.org",
+            "employeeCount": 4249,
+            "revenue": "$88.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 77,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#1102015862",
+                "signalSources": [
+                    {
+                        "metro": "Portland",
+                        "state": "Maine",
+                        "stateCode": "ME",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "22 Bramhall St Ste 2227",
+                "city": "Portland",
+                "state": "Maine",
+                "Zip": "04102",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#73696636#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 73696636,
+            "companyName": "Froedtert & The Medical College of Wisconsin",
+            "domain": "www.froedtert.com",
+            "employeeCount": 2128,
+            "revenue": "$531.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 75,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#73696636",
+                "signalSources": [
+                    {
+                        "metro": "Tampa Bay",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "9200 W Wisconsin Ave",
+                "city": "Milwaukee",
+                "state": "Wisconsin",
+                "Zip": "53226",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#111002372#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 111002372,
+            "companyName": "RWJBarnabas Health",
+            "domain": "www.rwjbh.org",
+            "employeeCount": 37000,
+            "revenue": "$5.9 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 74,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#111002372",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New Jersey",
+                        "stateCode": "NJ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "95 Old Short Hills Rd",
+                "city": "West Orange",
+                "state": "New Jersey",
+                "Zip": "07052",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#6523990#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 6523990,
+            "companyName": "St. Jude Children's Research Hospital",
+            "domain": "www.stjude.org",
+            "employeeCount": 5500,
+            "revenue": "$619.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 73,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#6523990",
+                "signalSources": [
+                    {
+                        "metro": "Tulsa",
+                        "state": "Oklahoma",
+                        "stateCode": "OK",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "262 Danny Thomas Pl",
+                "city": "Memphis",
+                "state": "Tennessee",
+                "Zip": "38105",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#23118757#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 23118757,
+            "companyName": "Louisa County Iowa",
+            "domain": "www.louisacountyia.gov",
+            "employeeCount": 112,
+            "revenue": "$15.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 69,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#23118757",
+                "signalSources": [
+                    {
+                        "metro": "Saint Louis",
+                        "state": "Missouri",
+                        "stateCode": "MO",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "117 S Main St",
+                "city": "Wapello",
+                "state": "Iowa",
+                "Zip": "52653",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#130613782#20221224",
+            "issueDate": "12/24/2022 12:00 AM",
+            "companyId": 130613782,
+            "companyName": "Southwest Diagnostic Imaging",
+            "domain": "www.sdil.net",
+            "employeeCount": 236,
+            "revenue": "$25 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 68,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#130613782",
+                "signalSources": [
+                    {
+                        "metro": "Baton Rouge",
+                        "state": "Louisiana",
+                        "stateCode": "LA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Healthcare Services"
+                }
+            ],
+            "companyAddress": {
+                "street": "18444 N 25th Ave Ste 140",
+                "city": "Phoenix",
+                "state": "Arizona",
+                "Zip": "85023",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#534343202#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 534343202,
+            "companyName": "TidalHealth",
+            "domain": "www.tidalhealth.org",
+            "employeeCount": 5000,
+            "revenue": "$734 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 99,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#534343202",
+                "signalSources": [
+                    {
+                        "metro": "Saint Louis",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "100 E Carroll St",
+                "city": "Salisbury",
+                "state": "Maryland",
+                "Zip": "21801",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#39977791#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 39977791,
+            "companyName": "Universal Hospital Services",
+            "domain": "www.uhs.com",
+            "employeeCount": 89000,
+            "revenue": "$13.2 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 99,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 3,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#39977791",
+                "signalSources": [
+                    {
+                        "metro": "West Palm Beach",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "367 S Gulph Rd",
+                "city": "King Of Prussia",
+                "state": "Pennsylvania",
+                "Zip": "19406",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#113000732#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 113000732,
+            "companyName": "SSM Health",
+            "domain": "www.ssmhealth.com",
+            "employeeCount": 40000,
+            "revenue": "$9.1 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 99,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#113000732",
+                "signalSources": [
+                    {
+                        "metro": "Providence",
+                        "state": "Massachusetts",
+                        "stateCode": "MA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "10101 Woodfield Ln",
+                "city": "St. Louis",
+                "state": "Missouri",
+                "Zip": "63132",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#52447705#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 52447705,
+            "companyName": "Johnson Memorial Hospital",
+            "domain": "www.johnsonmemorial.org",
+            "employeeCount": 440,
+            "revenue": "$83 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 84,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#52447705",
+                "signalSources": [
+                    {
+                        "metro": "Atlanta",
+                        "state": "Georgia",
+                        "stateCode": "GA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1125 W Jefferson St Ste S200",
+                "city": "Franklin",
+                "state": "Indiana",
+                "Zip": "46131",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#10256706#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 10256706,
+            "companyName": "Champlain Valley Physicians Hospital",
+            "domain": "www.cvph.org",
+            "employeeCount": 2200,
+            "revenue": "$196.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 84,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#10256706",
+                "signalSources": [
+                    {
+                        "metro": "Burlington",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "75 Beekman St Rm 405.bldg 210",
+                "city": "Plattsburgh",
+                "state": "New York",
+                "Zip": "12901",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#286965924#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 286965924,
+            "companyName": "UMC",
+            "domain": "www.umcsn.com",
+            "employeeCount": 3568,
+            "revenue": "$595.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 76,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#286965924",
+                "signalSources": [
+                    {
+                        "metro": "Las Vegas",
+                        "state": "Nevada",
+                        "stateCode": "NV",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1800 W Charleston Blvd",
+                "city": "Las Vegas",
+                "state": "Nevada",
+                "Zip": "89102",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#2279212#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 2279212,
+            "companyName": "Ochsner Health",
+            "domain": "www.ochsner.org",
+            "employeeCount": 18897,
+            "revenue": "$4.5 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 72,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#2279212",
+                "signalSources": [
+                    {
+                        "metro": "Lafayette",
+                        "state": "Louisiana",
+                        "stateCode": "LA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1514 Jefferson Hwy",
+                "city": "New Orleans",
+                "state": "Louisiana",
+                "Zip": "70121",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#557719115#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 557719115,
+            "companyName": "Epayselect",
+            "domain": "www.maxviana.net",
+            "employeeCount": 58,
+            "revenue": "$27.8 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 65,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#557719115",
+                "signalSources": [
+                    {
+                        "metro": "Dallas",
+                        "state": "Texas",
+                        "stateCode": "TX",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Restaurants"
+                },
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "6016 Foxboro Ct",
+                "city": "Midland",
+                "state": "Michigan",
+                "Zip": "48640",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#13864490#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 13864490,
+            "companyName": "Ohio Berger Health System",
+            "domain": "www.bergerhealth.com",
+            "employeeCount": 220,
+            "revenue": "$47.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 64,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#13864490",
+                "signalSources": [
+                    {
+                        "metro": "San Diego",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "600 N Pickaway St Ste 301",
+                "city": "Circleville",
+                "state": "Ohio",
+                "Zip": "43113",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#371947952#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 371947952,
+            "companyName": "iAnthus",
+            "domain": "www.ianthus.com",
+            "employeeCount": 1000,
+            "revenue": "$194 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 63,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#371947952",
+                "signalSources": [
+                    {
+                        "metro": "Miami",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical Specialists"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "420 Lexington Ave Ste 414",
+                "city": "New York City",
+                "state": "New York",
+                "Zip": "10170",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#346357415#20221217",
+            "issueDate": "12/17/2022 12:00 AM",
+            "companyId": 346357415,
+            "companyName": "Mission Healthcare",
+            "domain": "www.missionhealthcare.com",
+            "employeeCount": 53,
+            "revenue": "$18.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#346357415",
+                "signalSources": [
+                    {
+                        "metro": "Portland",
+                        "state": "Oregon",
+                        "stateCode": "OR",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "17420 106th Pl SE",
+                "city": "Renton",
+                "state": "Washington",
+                "Zip": "98055",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#73237859#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 73237859,
+            "companyName": "Roy Rogers Restaurants",
+            "domain": "www.royrogersrestaurants.com",
+            "employeeCount": 317,
+            "revenue": "$57.5 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 98,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#73237859",
+                "signalSources": [
+                    {
+                        "metro": "Baltimore",
+                        "state": "Maryland",
+                        "stateCode": "MD",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Restaurants"
+                },
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "4991 New Design Rd Ste 109",
+                "city": "Frederick",
+                "state": "Maryland",
+                "Zip": "21703",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#260980758#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 260980758,
+            "companyName": "Wake Forest Baptist Health",
+            "domain": "www.wakehealth.edu",
+            "employeeCount": 6429,
+            "revenue": "$1.2 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 98,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#260980758",
+                "signalSources": [
+                    {
+                        "metro": "Winston Salem",
+                        "state": "North Carolina",
+                        "stateCode": "NC",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "Medical Center Blvd",
+                "city": "Winston Salem",
+                "state": "North Carolina",
+                "Zip": "27157",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        }
+    ]
+},
+{
+    "totalResults": 178,
+    "maxResults": 0,
+    "data": [
+        {
+            "oppAlertId": "tz8ycs1rj1yx#359286447#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 359286447,
+            "companyName": "China Live",
+            "domain": "www.chinalivesf.com",
+            "employeeCount": 74,
+            "revenue": "$13.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 92,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#359286447",
+                "signalSources": [
+                    {
+                        "metro": "San Francisco",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "644 Broadway St",
+                "city": "San Francisco",
+                "state": "California",
+                "Zip": "94133",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#410869634#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 410869634,
+            "companyName": "Optima Family Services",
+            "domain": "www.optimafamilyservices.com",
+            "employeeCount": 219,
+            "revenue": "$38.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 91,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#410869634",
+                "signalSources": [
+                    {
+                        "metro": "Palm Springs",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "253 N San Gabriel Blvd Ste A",
+                "city": "Pasadena",
+                "state": "California",
+                "Zip": "91107",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#3555840#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 3555840,
+            "companyName": "Avera Health",
+            "domain": "www.avera.org",
+            "employeeCount": 20000,
+            "revenue": "$2.9 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 91,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#3555840",
+                "signalSources": [
+                    {
+                        "metro": "Omaha",
+                        "state": "Nebraska",
+                        "stateCode": "NE",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "3900 W Avera Dr",
+                "city": "Sioux Falls",
+                "state": "South Dakota",
+                "Zip": "57108",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#347766820#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 347766820,
+            "companyName": "Ridge Ambulance Service",
+            "domain": "www.ridgeems.com",
+            "employeeCount": 115,
+            "revenue": "$13.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 68,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#347766820",
+                "signalSources": [
+                    {
+                        "metro": "Palm Springs",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1851 Aucutt Rd",
+                "city": "Montgomery",
+                "state": "Illinois",
+                "Zip": "60538",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#46762388#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 46762388,
+            "companyName": "iCare Management",
+            "domain": "www.icarehn.com",
+            "employeeCount": 368,
+            "revenue": "$70.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 63,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#46762388",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "Connecticut",
+                        "stateCode": "CT",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "341 Bidwell St",
+                "city": "Manchester",
+                "state": "Connecticut",
+                "Zip": "06040",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#41272086#20221210",
+            "issueDate": "12/10/2022 12:00 AM",
+            "companyId": 41272086,
+            "companyName": "Wabash General Hospital",
+            "domain": "www.wabashgeneral.com",
+            "employeeCount": 305,
+            "revenue": "$29 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#41272086",
+                "signalSources": [
+                    {
+                        "metro": "Terre Haute",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1418 College Dr",
+                "city": "Mount Carmel",
+                "state": "Illinois",
+                "Zip": "62863",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#346285303#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 346285303,
+            "companyName": "Hillside Village",
+            "domain": "www.hillsidedesoto.com",
+            "employeeCount": 59,
+            "revenue": "$10.8 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 99,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#346285303",
+                "signalSources": [
+                    {
+                        "metro": "Kansas City",
+                        "state": "Kansas",
+                        "stateCode": "KS",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "33600 W 85th St",
+                "city": "De Soto",
+                "state": "Kansas",
+                "Zip": "66018",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#106906041#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 106906041,
+            "companyName": "Saint Alphonsus",
+            "domain": "www.saintalphonsus.org",
+            "employeeCount": 3558,
+            "revenue": "$824.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 95,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#106906041",
+                "signalSources": [
+                    {
+                        "metro": "Evansville",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "901 N Curtis Rd 503",
+                "city": "Boise",
+                "state": "Idaho",
+                "Zip": "83706",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#8503453#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 8503453,
+            "companyName": "Clnica Romero",
+            "domain": "www.clinicaromero.com",
+            "employeeCount": 82,
+            "revenue": "$14.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 93,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#8503453",
+                "signalSources": [
+                    {
+                        "metro": "Los Angeles",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2032 Marengo St",
+                "city": "Los Angeles",
+                "state": "California",
+                "Zip": "90033",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#65751690#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 65751690,
+            "companyName": "Des Moines University",
+            "domain": "www.dmu.edu",
+            "employeeCount": 578,
+            "revenue": "$82.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 77,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "F",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#65751690",
+                "signalSources": [
+                    {
+                        "metro": "Des Moines",
+                        "state": "Iowa",
+                        "stateCode": "IA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 75
+                    },
+                    {
+                        "metro": "Atlanta",
+                        "state": "Georgia",
+                        "stateCode": "GA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 25
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Colleges & Universities"
+                },
+                {
+                    "displayName": "Education"
+                }
+            ],
+            "companyAddress": {
+                "street": "3200 Grand Ave",
+                "city": "Des Moines",
+                "state": "Iowa",
+                "Zip": "50312",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#354566046#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 354566046,
+            "companyName": "Blind Barber",
+            "domain": "www.blindbarber.com",
+            "employeeCount": 52,
+            "revenue": "$18.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 73,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#354566046",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Barber Shops & Beauty Salons"
+                },
+                {
+                    "displayName": "Consumer Services"
+                }
+            ],
+            "companyAddress": {
+                "street": "10797 Washington Blvd",
+                "city": "Culver City",
+                "state": "California",
+                "Zip": "90232",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#34390962#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 34390962,
+            "companyName": "Houston Methodist",
+            "domain": "www.houstonmethodist.org",
+            "employeeCount": 22048,
+            "revenue": "$3.1 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 71,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#34390962",
+                "signalSources": [
+                    {
+                        "metro": "Houston",
+                        "state": "Texas",
+                        "stateCode": "TX",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "6565 Fannin St",
+                "city": "Houston",
+                "state": "Texas",
+                "Zip": "77030",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#344863297#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 344863297,
+            "companyName": "Barber Companies",
+            "domain": "www.barbercompanies.com",
+            "employeeCount": 101,
+            "revenue": "$27.6 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 67,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#344863297",
+                "signalSources": [
+                    {
+                        "metro": "Birmingham",
+                        "state": "Alabama",
+                        "stateCode": "AL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Barber Shops & Beauty Salons"
+                },
+                {
+                    "displayName": "Consumer Services"
+                }
+            ],
+            "companyAddress": {
+                "street": "27 Inverness Center Pkwy",
+                "city": "Birmingham",
+                "state": "Alabama",
+                "Zip": "35242",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#87721076#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 87721076,
+            "companyName": "PAWS Chicago",
+            "domain": "www.pawschicago.org",
+            "employeeCount": 167,
+            "revenue": "$16 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 65,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "F",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#87721076",
+                "signalSources": [
+                    {
+                        "metro": "Chicago",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 93.33
+                    },
+                    {
+                        "metro": "Milwaukee",
+                        "state": "Wisconsin",
+                        "stateCode": "WI",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 6.67
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Non-Profit & Charitable Organizations"
+                },
+                {
+                    "displayName": "Organizations"
+                }
+            ],
+            "companyAddress": {
+                "street": "1997 N Clybourn Ave",
+                "city": "Chicago",
+                "state": "Illinois",
+                "Zip": "60614",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#346372841#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 346372841,
+            "companyName": "Premier Family Health",
+            "domain": "www.premierfamilyhealth.com",
+            "employeeCount": 72,
+            "revenue": "$17.8 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 65,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#346372841",
+                "signalSources": [
+                    {
+                        "metro": "Harrisburg",
+                        "state": "Pennsylvania",
+                        "stateCode": "PA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1037 S State Road 7 Ste 211",
+                "city": "Wellington",
+                "state": "Florida",
+                "Zip": "33414",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#134217791#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 134217791,
+            "companyName": "Yankee Alliance",
+            "domain": "www.yankeealliance.com",
+            "employeeCount": 91,
+            "revenue": "$23.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 62,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#134217791",
+                "signalSources": [
+                    {
+                        "metro": "null",
+                        "state": "null",
+                        "stateCode": "NULL",
+                        "country": "null",
+                        "countryCode": "NULL",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "138 River Rd Ste 117",
+                "city": "Andover",
+                "state": "Massachusetts",
+                "Zip": "01810",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#8801420#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 8801420,
+            "companyName": "Ashland County",
+            "domain": "www.ashlandcountyoh.us",
+            "employeeCount": 76,
+            "revenue": "$10.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#8801420",
+                "signalSources": [
+                    {
+                        "metro": "Cleveland",
+                        "state": "Ohio",
+                        "stateCode": "OH",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Government"
+                }
+            ],
+            "companyAddress": {
+                "street": "110 Cottage St Fl 2",
+                "city": "Ashland",
+                "state": "Ohio",
+                "Zip": "44805",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#132005953#20221203",
+            "issueDate": "12/3/2022 12:00 AM",
+            "companyId": 132005953,
+            "companyName": "Journal Star",
+            "domain": "www.pjstar.com",
+            "employeeCount": 176,
+            "revenue": "$20 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#132005953",
+                "signalSources": [
+                    {
+                        "metro": "Chicago",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1 News Plz",
+                "city": "Peoria",
+                "state": "Illinois",
+                "Zip": "61643",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#9077361#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 9077361,
+            "companyName": "Community Health Systems",
+            "domain": "www.chs.net",
+            "employeeCount": 51000,
+            "revenue": "$12.4 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 100,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#9077361",
+                "signalSources": [
+                    {
+                        "metro": "Syracuse",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    },
+                    {
+                        "metro": "null",
+                        "state": "null",
+                        "stateCode": "NULL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical Specialists"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "4000 Meridian Blvd",
+                "city": "Franklin",
+                "state": "Tennessee",
+                "Zip": "37067",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#61688814#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 61688814,
+            "companyName": "Cleveland Clinic",
+            "domain": "my.clevelandclinic.org",
+            "employeeCount": 48000,
+            "revenue": "$12.4 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 100,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 3,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#61688814",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 78.26
+                    },
+                    {
+                        "metro": "Tri Cities",
+                        "state": "Washington",
+                        "stateCode": "WA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 21.74
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "9500 Euclid Ave",
+                "city": "Cleveland",
+                "state": "Ohio",
+                "Zip": "44195",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#16156756#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 16156756,
+            "companyName": "DCH Health System",
+            "domain": "www.dchsystem.com",
+            "employeeCount": 3743,
+            "revenue": "$530.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 99,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#16156756",
+                "signalSources": [
+                    {
+                        "metro": "Tuscaloosa",
+                        "state": "Alabama",
+                        "stateCode": "AL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "809 University Blvd E",
+                "city": "Tuscaloosa",
+                "state": "Alabama",
+                "Zip": "35401",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#98173786#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 98173786,
+            "companyName": "PruittHealth",
+            "domain": "www.pruitthealth.com",
+            "employeeCount": 3451,
+            "revenue": "$336.8 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 91,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#98173786",
+                "signalSources": [
+                    {
+                        "metro": "Atlanta",
+                        "state": "Georgia",
+                        "stateCode": "GA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1626 Jeurgens Ct",
+                "city": "Norcross",
+                "state": "Georgia",
+                "Zip": "30093",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#92311220#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 92311220,
+            "companyName": "Harkins Theatres",
+            "domain": "www.harkins.com",
+            "employeeCount": 2921,
+            "revenue": "$520.9 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 91,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#92311220",
+                "signalSources": [
+                    {
+                        "metro": "Phoenix",
+                        "state": "Arizona",
+                        "stateCode": "AZ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Movie Theaters"
+                },
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "8901 E Mcdonald Dr",
+                "city": "Scottsdale",
+                "state": "Arizona",
+                "Zip": "85250",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#40260108#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 40260108,
+            "companyName": "Virginia Heart",
+            "domain": "www.virginiaheart.com",
+            "employeeCount": 343,
+            "revenue": "$22.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 88,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#40260108",
+                "signalSources": [
+                    {
+                        "metro": "Los Angeles",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical Specialists"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2901 Telestar Ct Ste 300",
+                "city": "Falls Church",
+                "state": "Virginia",
+                "Zip": "22042",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#447134076#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 447134076,
+            "companyName": "Merakey",
+            "domain": "www.merakey.org",
+            "employeeCount": 10000,
+            "revenue": "$969.2 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 80,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#447134076",
+                "signalSources": [
+                    {
+                        "metro": "Pittsburgh",
+                        "state": "Pennsylvania",
+                        "stateCode": "PA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Non-Profit & Charitable Organizations"
+                },
+                {
+                    "displayName": "Organizations"
+                }
+            ],
+            "companyAddress": {
+                "street": "620 E Germantown Pike",
+                "city": "Lafayette Hill",
+                "state": "Pennsylvania",
+                "Zip": "19444",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        }
+    ]
+},
+{
+    "totalResults": 178,
+    "maxResults": 0,
+    "data": [
+        {
+            "oppAlertId": "tz8ycs1rj1yx#442704253#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 442704253,
+            "companyName": "Hudson Regional Hospital",
+            "domain": "www.hudsonregionalhospital.com",
+            "employeeCount": 159,
+            "revenue": "$27 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 75,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#442704253",
+                "signalSources": [
+                    {
+                        "metro": "San Francisco",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "55 Meadowlands Pkwy",
+                "city": "Secaucus",
+                "state": "New Jersey",
+                "Zip": "07094",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#36739880#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 36739880,
+            "companyName": "Domino's",
+            "domain": "www.dominos.com",
+            "employeeCount": 13500,
+            "revenue": "$4.5 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 75,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#36739880",
+                "signalSources": [
+                    {
+                        "metro": "Detroit",
+                        "state": "Michigan",
+                        "stateCode": "MI",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    },
+                    {
+                        "metro": "Phoenix",
+                        "state": "Arizona",
+                        "stateCode": "AZ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Restaurants"
+                },
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "30 Frank Lloyd Wright Dr",
+                "city": "Ann Arbor",
+                "state": "Michigan",
+                "Zip": "48105",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#5066280#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 5066280,
+            "companyName": "New York Presbyterian",
+            "domain": "www.nyp.org",
+            "employeeCount": 20000,
+            "revenue": "$2.9 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 72,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "D",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#5066280",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "466 Lexington Ave 13TH Fl",
+                "city": "New York City",
+                "state": "New York",
+                "Zip": "10017",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#17272561#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 17272561,
+            "companyName": "BayCare Health System",
+            "domain": "www.baycare.org",
+            "employeeCount": 28357,
+            "revenue": "$4.2 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 71,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#17272561",
+                "signalSources": [
+                    {
+                        "metro": "Tampa Bay",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2985 Drew St",
+                "city": "Clearwater",
+                "state": "Florida",
+                "Zip": "33759",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#563105072#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 563105072,
+            "companyName": "South Shore Hospital",
+            "domain": "www.southshorehospital.com",
+            "employeeCount": 96,
+            "revenue": "$12.6 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 70,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#563105072",
+                "signalSources": [
+                    {
+                        "metro": "Chicago",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "8012 S Crandon Ave",
+                "city": "Chicago",
+                "state": "Illinois",
+                "Zip": "60617",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#348507165#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 348507165,
+            "companyName": "Northwell Health",
+            "domain": "www.northwell.edu",
+            "employeeCount": 81000,
+            "revenue": "$11.9 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 70,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "F",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#348507165",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    },
+                    {
+                        "metro": "Washington",
+                        "state": "District of Columbia",
+                        "stateCode": "DC",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2000 Marcus Ave",
+                "city": "New Hyde Park",
+                "state": "New York",
+                "Zip": "11042",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#90571027#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 90571027,
+            "companyName": "Saint Francis Health System",
+            "domain": "www.saintfrancis.com",
+            "employeeCount": 6915,
+            "revenue": "$972.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 68,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "D",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#90571027",
+                "signalSources": [
+                    {
+                        "metro": "Tulsa",
+                        "state": "Oklahoma",
+                        "stateCode": "OK",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 66.67
+                    },
+                    {
+                        "metro": "null",
+                        "state": "null",
+                        "stateCode": "NULL",
+                        "country": "null",
+                        "countryCode": "NULL",
+                        "pct": 33.33
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "6161 S Yale Ave",
+                "city": "Tulsa",
+                "state": "Oklahoma",
+                "Zip": "74136",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#57641033#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 57641033,
+            "companyName": "Logan Memorial Hospital",
+            "domain": "www.loganmemorial.com",
+            "employeeCount": 114,
+            "revenue": "$22.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 68,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#57641033",
+                "signalSources": [
+                    {
+                        "metro": "El Paso",
+                        "state": "Texas",
+                        "stateCode": "TX",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "1625 Nashville St Ste 104",
+                "city": "Russellville",
+                "state": "Kentucky",
+                "Zip": "42276",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#12080989#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 12080989,
+            "companyName": "Berwick Hospital Center",
+            "domain": "www.berwickhospitalcenter.com",
+            "employeeCount": 134,
+            "revenue": "$23.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 65,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#12080989",
+                "signalSources": [
+                    {
+                        "metro": "Philadelphia",
+                        "state": "New Jersey",
+                        "stateCode": "NJ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "701 E 16th St",
+                "city": "Berwick",
+                "state": "Pennsylvania",
+                "Zip": "18603",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#1126168031#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 1126168031,
+            "companyName": "Doctors Medical Center Of Walton",
+            "domain": "www.doctorsmedicalcenter.org",
+            "employeeCount": 389,
+            "revenue": "$90.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 65,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#1126168031",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "21 W Main Ave",
+                "city": "Defuniak Springs",
+                "state": "Florida",
+                "Zip": "32435",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#354544786#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 354544786,
+            "companyName": "Ability Works Rehab Services",
+            "domain": "www.abilityworksrehab.com",
+            "employeeCount": 77,
+            "revenue": "$10.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 63,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#354544786",
+                "signalSources": [
+                    {
+                        "metro": "Los Angeles",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "28592 Orchard Lake Rd Ste 300",
+                "city": "Farmington Hills",
+                "state": "Michigan",
+                "Zip": "48334",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#28724737#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 28724737,
+            "companyName": "Compass Family Services",
+            "domain": "www.compass-sf.org",
+            "employeeCount": 319,
+            "revenue": "$85.5 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 63,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#28724737",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New Jersey",
+                        "stateCode": "NJ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Advertising & Marketing"
+                },
+                {
+                    "displayName": "Business Services"
+                }
+            ],
+            "companyAddress": {
+                "street": "37 Grove St",
+                "city": "San Francisco",
+                "state": "California",
+                "Zip": "94102",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#18927865#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 18927865,
+            "companyName": "Beach Hut Deli",
+            "domain": "www.beachhutdeli.com",
+            "employeeCount": 99,
+            "revenue": "$46.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 63,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#18927865",
+                "signalSources": [
+                    {
+                        "metro": "Los Angeles",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitality"
+                }
+            ],
+            "companyAddress": {
+                "street": "13471 Bowman Rd",
+                "city": "Auburn",
+                "state": "California",
+                "Zip": "95603",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#91276038#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 91276038,
+            "companyName": "Pediatric Health Choice",
+            "domain": "www.pediatrichc.com",
+            "employeeCount": 332,
+            "revenue": "$16.3 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 62,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#91276038",
+                "signalSources": [
+                    {
+                        "metro": "Philadelphia",
+                        "state": "Pennsylvania",
+                        "stateCode": "PA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "8509 Benjamin Rd Ste D",
+                "city": "Tampa",
+                "state": "Florida",
+                "Zip": "33634",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#28021192#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 28021192,
+            "companyName": "Community Mental Health Affiliates",
+            "domain": "www.cmhacc.org",
+            "employeeCount": 155,
+            "revenue": "$21 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 62,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#28021192",
+                "signalSources": [
+                    {
+                        "metro": "Seattle",
+                        "state": "Washington",
+                        "stateCode": "WA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "233 Main St Fl 7",
+                "city": "New Britain",
+                "state": "Connecticut",
+                "Zip": "06051",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#481602409#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 481602409,
+            "companyName": "Carrot",
+            "domain": "www.get-carrot.com",
+            "employeeCount": 300,
+            "revenue": "$115 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#481602409",
+                "signalSources": [
+                    {
+                        "metro": "San Francisco",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 66.67
+                    },
+                    {
+                        "metro": "Syracuse",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 33.33
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical Specialists"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "47 Lusk St",
+                "city": "San Francisco",
+                "state": "California",
+                "Zip": "94107",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#346018819#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 346018819,
+            "companyName": "University Orthopaedic Associates",
+            "domain": "www.uoanj.com",
+            "employeeCount": 161,
+            "revenue": "$38.9 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 61,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#346018819",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New Jersey",
+                        "stateCode": "NJ",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2 Worlds Fair Dr Ste 201",
+                "city": "Somerset",
+                "state": "New Jersey",
+                "Zip": "08873",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#56379817#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 56379817,
+            "companyName": "VCU Health",
+            "domain": "www.vcuhealth.org",
+            "employeeCount": 13000,
+            "revenue": "$3.7 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 60,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#56379817",
+                "signalSources": [
+                    {
+                        "metro": "Richmond",
+                        "state": "Virginia",
+                        "stateCode": "VA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 71.43
+                    },
+                    {
+                        "metro": "null",
+                        "state": "North Carolina",
+                        "stateCode": "NC",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 28.57
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "3600 W Broad St Ste 115",
+                "city": "Richmond",
+                "state": "Virginia",
+                "Zip": "23230",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#347046439#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 347046439,
+            "companyName": "California Skin Institute",
+            "domain": "www.californiaskininstitute.com",
+            "employeeCount": 283,
+            "revenue": "$58.7 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 60,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#347046439",
+                "signalSources": [
+                    {
+                        "metro": "San Francisco",
+                        "state": "California",
+                        "stateCode": "CA",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "6399 San Ignacio Rd Ste 120",
+                "city": "San Jose",
+                "state": "California",
+                "Zip": "95119",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#22004179#20221126",
+            "issueDate": "11/26/2022 12:00 AM",
+            "companyId": 22004179,
+            "companyName": "Lake Cumberland Regional Hospital",
+            "domain": "www.lakecumberlandhospital.com",
+            "employeeCount": 651,
+            "revenue": "$71.8 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 60,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "C",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#22004179",
+                "signalSources": [
+                    {
+                        "metro": "Lexington",
+                        "state": "Kentucky",
+                        "stateCode": "KY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "305 Langdon St",
+                "city": "Somerset",
+                "state": "Kentucky",
+                "Zip": "42503",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#15191640#20221119",
+            "issueDate": "11/19/2022 12:00 AM",
+            "companyId": 15191640,
+            "companyName": "BJC HealthCare",
+            "domain": "www.bjc.org",
+            "employeeCount": 13492,
+            "revenue": "$2.4 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 99,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#15191640",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 50
+                    },
+                    {
+                        "metro": "Saint Louis",
+                        "state": "Missouri",
+                        "stateCode": "MO",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 25
+                    },
+                    {
+                        "metro": "Tampa Bay",
+                        "state": "Florida",
+                        "stateCode": "FL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 25
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Medical & Surgical Hospitals"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "4901 Forest Park Ave",
+                "city": "St. Louis",
+                "state": "Missouri",
+                "Zip": "63108",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#63114013#20221119",
+            "issueDate": "11/19/2022 12:00 AM",
+            "companyId": 63114013,
+            "companyName": "Daughters",
+            "domain": "www.kdhmadison.org",
+            "employeeCount": 345,
+            "revenue": "$55.4 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 98,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#63114013",
+                "signalSources": [
+                    {
+                        "metro": "Syracuse",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "2670 Michigan Rd",
+                "city": "Madison",
+                "state": "Indiana",
+                "Zip": "47250",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#96715101#20221119",
+            "issueDate": "11/19/2022 12:00 AM",
+            "companyId": 96715101,
+            "companyName": "Southern Illinois University",
+            "domain": "www.southernillinoiswellness.com",
+            "employeeCount": 4376,
+            "revenue": "$68.9 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 97,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#96715101",
+                "signalSources": [
+                    {
+                        "metro": "Paducah",
+                        "state": "Illinois",
+                        "stateCode": "IL",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Colleges & Universities"
+                },
+                {
+                    "displayName": "Education"
+                }
+            ],
+            "companyAddress": {
+                "street": "1263 Lincoln Dr",
+                "city": "Carbondale",
+                "state": "Illinois",
+                "Zip": "62924",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#18760237#20221119",
+            "issueDate": "11/19/2022 12:00 AM",
+            "companyId": 18760237,
+            "companyName": "IHA",
+            "domain": "www.ihacares.com",
+            "employeeCount": 1878,
+            "revenue": "$240.1 Million",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 97,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "A",
+                "departmentId": 0,
+                "signalCount": 1,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#18760237",
+                "signalSources": [
+                    {
+                        "metro": "New York",
+                        "state": "New York",
+                        "stateCode": "NY",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 66.67
+                    },
+                    {
+                        "metro": "Grand Rapids",
+                        "state": "Michigan",
+                        "stateCode": "MI",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 33.33
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Physicians Clinics"
+                },
+                {
+                    "displayName": "Hospitals & Physicians Clinics"
+                }
+            ],
+            "companyAddress": {
+                "street": "PO Box 0446",
+                "city": "Ann Arbor",
+                "state": "Michigan",
+                "Zip": "48106",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        },
+        {
+            "oppAlertId": "tz8ycs1rj1yx#149438578#20221119",
+            "issueDate": "11/19/2022 12:00 AM",
+            "companyId": 149438578,
+            "companyName": "UNMC University of Nebraska Medical Center",
+            "domain": "www.unmc.edu",
+            "employeeCount": 3671,
+            "revenue": "$1.2 Billion",
+            "surgingTopic": {
+                "category": "Customer Experience",
+                "topic": "Customer Wait Experience",
+                "surgeScore": 91,
+                "trend": 0,
+                "isNew": false,
+                "signalStrength": "B",
+                "departmentId": 0,
+                "signalCount": 2,
+                "rolledUpIntentIds": [],
+                "topicIdCompanyId": "tz8ycs1rj1yx#149438578",
+                "signalSources": [
+                    {
+                        "metro": "Omaha",
+                        "state": "Nebraska",
+                        "stateCode": "NE",
+                        "country": "United States",
+                        "countryCode": "US",
+                        "pct": 100
+                    }
+                ]
+            },
+            "primaryIndustry": [
+                {
+                    "displayName": "Colleges & Universities"
+                },
+                {
+                    "displayName": "Education"
+                }
+            ],
+            "companyAddress": {
+                "street": "University of Nebraska Medical Center 42nd and Emile",
+                "city": "Omaha",
+                "state": "Nebraska",
+                "Zip": "68198",
+                "country": "United States"
+            },
+            "moreSurgingTopicsCount": 0,
+            "recommendedContactsCount": 0
+        }
+    ]
+},
