@@ -23,7 +23,7 @@ $(document).ready(function(){
 	}
 
 	function isPriceRequired() {
-		if (isLocationEducationInstitution() || isLocationHospital()) {
+		if (isLocationEducationInstitution() || isLocationHospital() || isLocationTravel()) {
 			return false
 		}
 		return true
