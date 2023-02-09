@@ -158,8 +158,8 @@
 		"gif": "../../assets/gifs/cab.gif",
 		"ingamePath": "../../assets/ingame/travel/",
 		"adPath": "../../assets/retailers/BluSmart/ads/",
-		"totalAds": 6,
-		"adFormat": ".jpeg",
+		"totalAds": 5,
+		"adFormat": ".png",
 		"content": [],
 		"games": [
 			1,
