@@ -173,6 +173,7 @@
 			9,
 			10
 		],
+		"homePage": "assets/retailers/BluSmart/home.png",
 		"menuPath": "assets/retailers/BluSmart/menu.csv",
 		"cssPath": "../../assets/retailers/BluSmart/style.css"
 	}
