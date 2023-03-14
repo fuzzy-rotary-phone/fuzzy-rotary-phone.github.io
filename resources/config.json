@@ -45,6 +45,10 @@
 		"travel": {
 			"memory": ["charging-station", "charging-station", "car-battery", "car-battery", "taxi", "taxi", "plug-circle-bolt", "plug-circle-bolt", "solar-panel", "solar-panel", "earth-americas", "earth-americas", "user-shield", "user-shield", "face-grin-stars", "face-grin-stars"],
 			"maze": ["01F695", "01F50C", "01F6A6", "01F6A7", "01F4B0"]
+		},
+		"mexican-cafe": {
+			"memory": ["bowl-rice", "bowl-rice", "martini-glass-citrus", "martini-glass-citrus", "beer-mug-empty", "beer-mug-empty", "fish-fins", "fish-fins", "pepper-hot", "pepper-hot", "heart-circle-check", "heart-circle-check", "hotdog", "hotdog", "wine-bottle", "wine-bottle"],
+			"maze": ["01F32E", "01F32F", "01F35B", "01F37A", "01F372"]
 		}
 	}
 }

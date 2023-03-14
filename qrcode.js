@@ -1,4 +1,4 @@
-const tag_for_qr = 'blusmart'
+const tag_for_qr = 'tacombi'
 const tag_required = true
 const qrcode_download = true
 

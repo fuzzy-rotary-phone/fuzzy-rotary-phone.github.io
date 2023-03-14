@@ -42,6 +42,7 @@ const TAG_FOR_CAFEUNTITLED = 'cafeuntitled'
 const TAG_FOR_BLR_BIRYANI_BHAWAN = 'bbb'
 const TAG_FOR_TONI_AND_GUY = 'toniguy'
 const TAG_FOR_BLUSMART = 'blusmart'
+const TAG_FOR_TACOMBI = 'tacombi'
 
 const JSON_VALUE_FOR_INDUSTRY_DEFAULT = 'default'
 const JSON_VALUE_FOR_INDUSTRY_CAFE = 'cafe'
@@ -50,6 +51,7 @@ const JSON_VALUE_FOR_INDUSTRY_BIRYANI = 'biryani'
 const JSON_VALUE_FOR_INDUSTRY_SALON = 'salon'
 const JSON_VALUE_FOR_INDUSTRY_EDUCATION_INSTITUTION = 'education_institution'
 const JSON_VALUE_FOR_INDUSTRY_TRAVEL = 'travel'
+const JSON_VALUE_FOR_INDUSTRY_MEXICAN_CAFE = 'mexican-cafe'
 
 const CONTENT_PATH = 'resources/content.json'
 const CONFIG_PATH = 'resources/config.json'
@@ -103,19 +105,20 @@ var CONFIG_JSON
 var URL_SEARCH_PARAM_FOR_RETAIL_LOCATION
 
 function getRandomNumber() {
-	var total = Object.keys(GAME_MAP).length;
+	var keys = Object.keys(GAME_MAP)
+	var total = keys.length;
 	if(!total) {
 		loadGameMap()
-		total = Object.keys(GAME_MAP).length
+		total = keys.length
 	}
-	var number = 1 + Math.floor(Math.random() * total);
+	var number = Math.floor(Math.random() * total);
 	if (!localStorage[LOCAL_STORAGE_KEY_FOR_LAST_GAME]) {
-		return number;
+		return keys[number];
 	}
-	while (number == localStorage[LOCAL_STORAGE_KEY_FOR_LAST_GAME]) {
-		number = 1 + Math.floor(Math.random() * total);
+	while (keys[number] == localStorage[LOCAL_STORAGE_KEY_FOR_LAST_GAME]) {
+		number = Math.floor(Math.random() * total);
 	}
-	return number;
+	return keys[number];
 }
 
 function setRetailLocationInLocalStorage(retailLocation) {
@@ -321,6 +324,10 @@ function isLocationNostroCafe() {
 	return localStorage.getItem(LOCAL_STORAGE_KEY_FOR_RETAIL_LOCATION) == TAG_FOR_NOSTRO_CAFE
 }
 
+function isLocationTacombi() {
+	return localStorage.getItem(LOCAL_STORAGE_KEY_FOR_RETAIL_LOCATION) == TAG_FOR_TACOMBI
+}
+
 function isLocationToniGuy() {
 	return localStorage.getItem(LOCAL_STORAGE_KEY_FOR_RETAIL_LOCATION) == TAG_FOR_TONI_AND_GUY
 }
@@ -330,7 +337,7 @@ function isLocationModulusHyd() {
 }
 
 function isLocationCafe() {
-	return JSON_VALUE_FOR_INDUSTRY_CAFE == INSTANCE_JSON[JSON_KEY_FOR_INDUSTRY]
+	return JSON_VALUE_FOR_INDUSTRY_CAFE == INSTANCE_JSON[JSON_KEY_FOR_INDUSTRY] || JSON_VALUE_FOR_INDUSTRY_MEXICAN_CAFE == INSTANCE_JSON[JSON_KEY_FOR_INDUSTRY]
 }
 
 function isLocationHospital() {

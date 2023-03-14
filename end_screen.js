@@ -113,6 +113,10 @@ function removeAd() {
 }
 
 function customizeEndScreenBasedOnRetailLocation() {
+    if(isLocationTacombi()) {
+        $('.logo-div img')[0].style.height = '25vh'
+        $('.logo-div')[0].style.marginTop = '3em'
+    }
     if(isLocationToniGuy()) {
         $('.logo-div img')[0].style.height = '10vh'
         $('.logo-div')[0].style.marginTop = '7em'

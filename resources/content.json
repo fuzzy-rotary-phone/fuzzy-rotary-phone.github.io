@@ -39,7 +39,7 @@
 		"totalAds": 8,
 		"adFormat": ".gif",
 		"content": [],
-		"games": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+		"games": [3, 6, 7, 9],
 		"homePage": "assets/retailers/NostroCafe/home.jpeg",
 		"cssPath": "assets/retailers/NostroCafe/style.css",
 		"menuPath": "assets/retailers/NostroCafe/menu.csv"
@@ -176,5 +176,29 @@
 		"homePage": "assets/retailers/BluSmart/home.png",
 		"menuPath": "assets/retailers/BluSmart/menu.csv",
 		"cssPath": "../../assets/retailers/BluSmart/style.css"
-	}
+	},
+	{
+		"id": "tacombi",
+		"urlTag": "tacombi",
+		"name": "Tacombi",
+		"industry": "mexican-cafe",
+		"website": "http://tacombi.com",
+		"logo": "../../assets/retailers/Tacombi/logo.png",
+		"gif": "../../assets/gifs/coffee.gif",
+		"ingamePath": "../../../assets/ingame/mexican-cafe/",
+		"adPath": "../../assets/retailers/Tacombi/ads/",
+		"totalAds": 4,
+		"adFormat": ".jpg",
+		"content": [],
+		"games": [
+			3,
+			6,
+			7,
+			9,
+			10
+		],
+		"homePage": "assets/retailers/Tacombi/home.jpg",
+		"menuPath": "assets/retailers/Tacombi/menu.csv",
+		"cssPath": "../../assets/retailers/Tacombi/style.css"
+	}	
 ]

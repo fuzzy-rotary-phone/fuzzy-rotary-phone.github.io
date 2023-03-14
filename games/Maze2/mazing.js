@@ -99,6 +99,9 @@ Mazing.prototype.customizeMaze = function() {
   if (this.retailLocation == TAG_FOR_NOSTRO_CAFE || this.retailLocation == TAG_FOR_CAFEUNTITLED || this.retailLocation == TAG_FOR_COFFEECRUSH || this.retailLocation == TAG_FOR_BLR_BIRYANI_BHAWAN) {
     $('.nubbin').not(".wall").toggleClass('cafe')
   }
+  if (this.retailLocation == TAG_FOR_TACOMBI) {
+    $('.nubbin').not(".wall").toggleClass('mexican-cafe')
+  }
   if (this.retailLocation == TAG_FOR_TONI_AND_GUY) {
     $('.nubbin').not(".wall").toggleClass('salon')
   }

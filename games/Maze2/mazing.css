@@ -130,6 +130,21 @@ body {
 #maze div.nubbin.travel:nth-of-type(13n)::after {
   content: "\01F4B0";
 }
+#maze div div.nubbin.mexican-cafe::after {
+  content: "\01F32E";
+}
+#maze div.nubbin.mexican-cafe:nth-of-type(3n)::after {
+  content: "\01F32F";
+}
+#maze div.nubbin.mexican-cafe:nth-of-type(5n)::after {
+  content: "\01F35B";
+}
+#maze div.nubbin.mexican-cafe:nth-of-type(7n)::after {
+  content: "\01F37A";
+}
+#maze div.nubbin.mexican-cafe:nth-of-type(13n)::after {
+  content: "\01F372";
+}
 #maze div.hero::after {
   content: "\26F5" !important;
 }
