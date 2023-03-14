@@ -375,6 +375,9 @@ function customizeBasedOnRetailLocation() {
 	if(HOME_PAGE_PATH) {
 		document.getElementById('retailname').innerText = ''
 	}
+	if(isLocationTacombi()) {
+		document.getElementById('greeting').innerText = ''
+	}
 }
 
 function checkIfRetailLocation() {
